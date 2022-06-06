@@ -2,7 +2,7 @@
 
 "dbify" JSON files, in Python
 
-Open source available on [GitHub](https://github.com/Whoeza/json_and_data) and 
+Open source available on [GitHub](https://github.com/Whoeza/json_and_data) and
 [PyPI](https://pypi.org/project/json_and_data/).
 
 ## Installation
@@ -27,7 +27,7 @@ Run this command from the package directory on your filesystem:
 
 ### Development diary
 
-[DEVDIARY.md](./DEVDIARY.md)
+[DEVDIARY.md](https://github.com/Whoeza/json_and_data/blob/main/DEVDIARY.md)
 
 ## Community
 
