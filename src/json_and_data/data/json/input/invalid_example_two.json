@@ -1,0 +1,11 @@
+[
+  {
+    "first": "name",
+    "nested": {
+      "hello": "world",
+      "foo": "bar"
+    },
+    "zippy": "zappy",
+    1: "one"
+  }
+]

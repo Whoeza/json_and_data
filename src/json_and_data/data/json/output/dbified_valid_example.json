@@ -1,0 +1,18 @@
+[
+    [
+        "root",
+        {
+            "first": "name",
+            "nested": "nested_table_1.json",
+            "zippy": "zappy",
+            "1": "one"
+        }
+    ],
+    [
+        "nested_table_1.json",
+        {
+            "hello": "world",
+            "foo": "bar"
+        }
+    ]
+]
