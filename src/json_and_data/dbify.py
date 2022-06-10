@@ -11,7 +11,7 @@ import os
 # import JSON validation
 # todo Once the following packages are available from PyPI, change these
 #  imports:  json_and_validation
-from modules.json_and_validation_new import *
+from json_and_validation import *
 
 
 ###
